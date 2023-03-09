@@ -1,0 +1,28 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "free shipping worldwide",
+            "icon": "fa-ship",
+            "description": "A dummy text is applied here"
+        },
+        {
+            "id": 2,
+            "title": "24/7 customer services",
+            "icon": "fa-headset",
+            "description": "A dummy text is applied here"
+        },
+        {
+            "id": 3,
+            "title": "money back guanranty",
+            "icon": "fa-moneyCheckAlt",
+            "description": "A dummy text is applied here"
+        },
+        {
+            "id": 4,
+            "title": "fast delivery",
+            "icon": "fa-shippingFast",
+            "description": "A dummy text is applied here"
+        }
+    ]
+}
