@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+  
+[[redirects]]
+  from = "/"
+  to = "/services.json"
+  status = 302
